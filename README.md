@@ -49,22 +49,6 @@ The goal of this project is to create a **prediction system** that can forecast 
 - Understood how to make an **end-to-end web application** from dataset to deployment.  
 
 ---
-
-## 📷 Demo Screenshots
-*(Add screenshots of your app UI and predictions here after running it locally)*  
-
----
-
-## 📦 Installation & Usage
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/TrafficTelligence.git
-   cd TrafficTelligence
-2. Install dependencies
-
-pip install -r requirements.txt
-
-
 3. Run the Flask app
 
 python app.py
