@@ -49,9 +49,3 @@ The goal of this project is to create a **prediction system** that can forecast 
 - Understood how to make an **end-to-end web application** from dataset to deployment.  
 
 ---
-3. Run the Flask app
-
-python app.py
-
-
-4. Open in browser → http://127.0.0.1:5000/
